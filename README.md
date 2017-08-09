@@ -248,5 +248,5 @@ new Vue({
 
 ---
 > 接下来就看看我们的效果吧：
-
+![看这里](https://github.com/STsongze/Vue/blob/master/xiaoguo.gif);
    
